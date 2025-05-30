@@ -1,0 +1,166 @@
+{
+    "backgrounds": [
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg1.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg2.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg3.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_iQSohAP5GG.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg4.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg5.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg6.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_uBFrkMuMJs.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg7.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg8.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg9.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg10.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg11.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg12.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_pIMgveXVdQs.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg13.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg14.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg15.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_o0bUQ9XIcR.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg16.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg17.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg18.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg19.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg20.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg21.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg22.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg23.png",
+"https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/bg24.png"
+
+      
+    ],
+    "songs": [
+        {
+            "song": "",
+            "artist": "",
+            "url": ""
+        }
+    ],
+    "changelog": {
+        "changes": [
+           {
+            "description": "Massive Energy update with performance upgrades, new systems, and fun activities!",
+            "type": "UPDATE",
+            "title": "Energy 1.5"
+        },
+        {
+            "description": "Big optimization pass on all clothing to help with performance and reduce overall city lag. Duplicates removed and optimized clothing is now under 'textures/'.",
+            "type": "IMPROVEMENT",
+            "title": "CLOTHING UPDATE 1.5"
+        },
+        {
+            "description": "MLOs and vehicles tuned and optimized for better performance across the city.",
+            "type": "IMPROVEMENT",
+            "title": "MLO & VEHICLE OPTIMIZATION"
+        },
+        {
+            "description": "Realistic EMS system with limb-based injury logic, new ragdoll mechanics for running/falling/jumping, and different healing tools for civilians and police.",
+            "type": "NEW",
+            "title": "NEW AMBULANCE SYSTEM"
+        },
+        {
+            "description": "Painkillers (for civilians) and IFAKs (for police) can now be used to stop bleeding and stabilize injuries.",
+            "type": "NEW",
+            "title": "INJURY SYSTEM + HEALING ITEMS"
+        },
+        {
+            "description": "Fully redesigned notification system to better match the custom Energy UI style.",
+            "type": "REDESIGN",
+            "title": "NOTIFICATION SYSTEM"
+        },
+        {
+            "description": "Progress bars have been completely redesigned to better align with the Energy look and feel.",
+            "type": "REDESIGN",
+            "title": "PROGRESS BAR SYSTEM"
+        },
+        {
+            "description": "New animated loading screen with immersive visual design customized for Energy.",
+            "type": "REDESIGN",
+            "title": "LOADING SCREEN"
+        },
+        {
+            "description": "New custom pause menu designed to fit the theme and layout of Energy.",
+            "type": "REDESIGN",
+            "title": "PAUSE MENU"
+        },
+        {
+            "description": "New in-vehicle CarPlay radio system optimized for performance and ease of use.",
+            "type": "NEW",
+            "title": "CARPLAY SYSTEM"
+        },
+        {
+            "description": "New radio system added with realistic radio animations for better immersion.",
+            "type": "NEW",
+            "title": "RADIO SYSTEM"
+        },
+        {
+            "description": "Weapons now visibly stay on your back while reloading skins, driving, or switching weapons.",
+            "type": "NEW",
+            "title": "WEAPON ON BACK SYSTEM"
+        },
+        {
+            "description": "Vehicle contracts now handled at PDM to avoid scams when selling cars.",
+            "type": "NEW",
+            "title": "VEHICLE SELLING CONTRACTS"
+        },
+        {
+            "description": "New optimized vehicle key system that works reliably across all vehicle types.",
+            "type": "NEW",
+            "title": "VEHICLE KEY SYSTEM"
+        },
+        {
+            "description": "New hospital interior now located in Vinewood, offering improved performance and layout.",
+            "type": "NEW",
+            "title": "NEW VINEWOOD HOSPITAL"
+        },
+        {
+            "description": "Business crafting system and boss menu have been streamlined for better ease of use for business owners.",
+            "type": "IMPROVEMENT",
+            "title": "BUSINESS CRAFTING/BOSS MENU"
+        },
+        {
+            "description": "New arcade event added at Postal 910 for fun competitive events.",
+            "type": "NEW",
+            "title": "Energy ARCADES"
+        },
+        {
+            "description": "Laser tag system added at Postal 622  play competitive matches with friends using laser gear.",
+            "type": "NEW",
+            "title": "PAINTBALL SYSTEM"
+
+            }
+
+           ],
+        "date": "05/28/2025",
+        "version": "1.5.0"
+    },
+    "players": [
+        {
+            "description": "5STAR has dominated the streets this month with strategic takeovers, relentless turf control, and a reputation that leaves their enemies second-guessing every move. Feared, respected, and always a step ahead  they have earned their spot at the top.",
+            "name": "5$TAR",
+            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_vIV2FpZvwOsss.png",
+            "category": "Top Gang"
+        },
+        {
+            "description": "Khloe Bad has set the standard this month with sharp investigative work, unmatched professionalism, and relentless pursuit of justice. From undercover ops to high-stakes busts, she's proven why she's a key player in the LSPD and more than earned her spot as Police Officer of the Month.",
+            "name": "Klomoney",
+            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/FiveM_GTAProcess_RYpZXoD15c.png",
+            "category": "POLICE Officer"
+        },
+        {
+            "description": "Cluck n Stack has gone above and beyond this month, setting a new standard for excellence in service and quality. Through teamwork, leadership, and dedication, we’ve continued to exceed expectations and drive success. We’re proud of our achievements and excited for what’s ahead.",
+            "name": "Cluck N Stack",
+            "image": "https://r2.fivemanage.com/DDFxnL9zW8REFt3dNcM55/image_2025-05-28_060335089.png",
+            "category": "Top Business"
+        }
+    ],
+    "store": {
+        "type_text": "",
+        "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Energy Roleplay",
+        "url": "https://energy-rp.tebex.io/",
+        "title": "Energy STORE",
+        "type": "1.5 Sale Live Now!"
+    }
+}
